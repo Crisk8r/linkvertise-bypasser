@@ -1,3 +1,5 @@
+# certified $udo classic
+
 import requests
 
 def bypass(url):
